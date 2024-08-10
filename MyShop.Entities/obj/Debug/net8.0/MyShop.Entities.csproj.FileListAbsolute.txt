@@ -1,0 +1,12 @@
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.deps.json
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.dll
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\bin\Debug\net8.0\MyShop.Entities.pdb
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.AssemblyInfoInputs.cache
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.AssemblyInfo.cs
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.dll
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\refint\MyShop.Entities.dll
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.pdb
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\ref\MyShop.Entities.dll
+C:\Users\abdel\OneDrive\Documents\.Net Projects\MyShop\MyShop.Entities\obj\Debug\net8.0\MyShop.Entities.csproj.AssemblyReference.cache

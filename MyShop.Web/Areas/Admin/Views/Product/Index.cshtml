@@ -1,0 +1,34 @@
+﻿
+
+@{
+    ViewBag.PageTitle = "Products Management";
+    ViewBag.CardTitle = "View Products";
+}
+
+
+<div>
+    <a  asp-controller="Product" asp-action="Create" asp-area="Admin" class="btn btn-primary">Create</a>
+</div>
+
+<br />
+
+
+<table id="mytable" class="table table-hover">
+    <thead class="text-bold">
+        <tr>
+            <td>Name</td>
+            <td>Describtion</td>
+            <td>Price</td>
+            <td>Category</td>
+            <td>Actions</td>
+        </tr>
+    </thead>
+
+
+</table>
+
+
+ 
+@section scripts{
+ <script src="~/js/product.js"> </script>
+}
